@@ -1,1 +1,13 @@
-This is a food delivery wesite
+Healthy Bites
+Welcome to Healthy Bites, a web application designed to help users find healthy and nutritious recipes to support a healthy lifestyle. This project was created as part of our team's final project for the Codecademy Full-Stack Engineer Career Path.
+
+Project Overview
+Healthy Bites is a user-friendly web application that allows users to search for healthy recipes based on their dietary preferences and restrictions. The application utilizes the Spoonacular API to retrieve recipe data and display it in a visually appealing and easy-to-follow format. Users can also create an account to save their favorite recipes and create a personalized profile.
+
+Technologies Used
+HTML
+CSS
+JavaScript
+React
+MongoDB
+
